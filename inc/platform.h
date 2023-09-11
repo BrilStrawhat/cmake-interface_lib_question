@@ -1,0 +1,1 @@
+#define PLAT 1
